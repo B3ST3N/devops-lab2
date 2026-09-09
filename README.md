@@ -1,2 +1,2 @@
-# devops-lab2
-Зертханалық жұмыс №1
+git remote add origin https://github.com/Almas/devops-lab1.git
+git push -u origin master
